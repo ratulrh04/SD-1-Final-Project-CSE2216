@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f4f8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .converter {
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    max-width: 400px;
+    width: 100%;
+  }
+  
+  select, input {
+    width: 100%;
+    padding: 0.75rem;
+    margin: 0.5rem 0;
+    font-size: 1rem;
+  }
+  
+  .output {
+    margin-top: 1rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #007BFF;
+  }
+  
+  .enterValue {
+    width: 374px;
+  }
+  

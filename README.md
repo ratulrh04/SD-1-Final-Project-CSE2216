@@ -23,7 +23,7 @@ JavaScript (Vanilla JS) – Conversion logic and event handling
 
 Clone the Repository
 
-git clone https://github.com/your-username/unit-converter.git
+git clone https://github.com/ratulrh04/SD-1-Final-Project-CSE2216.git
 cd unit-converter
 
 
@@ -63,4 +63,4 @@ Implement a history log for past conversions.
 
 👨‍💻 Contributions
 
-Developed by [Your Name] as part of a web development project.
+Developed by Ratul Raha as part of a web development project.
